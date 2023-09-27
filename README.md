@@ -19,22 +19,22 @@ The following is my subnet configuration.
 
 `subnet actor with id` /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i<br/>
 
-Subnet /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon running in container: e8d9266981b218b49fc7a14a886bf0b8fb99f115ef530a03a1da99dee0a1deb1 (friendly name: ipc_r314159_t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i_1251)<br/>
-Token to /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.n_1J2L_oK4j7sX5utUT6wxE16bMpHgde36Ib9RERqbk<br/>
-Default wallet: t1ytq6xuk44qmjdf2mxvdioprqodg6fbvmgcypioa<br/>
-Subnet validator info: /dns/host.docker.internal/udp/1351/quic/p2p/12D3KooWJwGjexSzAH4D9idRKid9yuN6cWwGyPpL5K8i3XFK3Fw7<br/>
+`Subnet /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon running in container`: e8d9266981b218b49fc7a14a886bf0b8fb99f115ef530a03a1da99dee0a1deb1 (friendly name: ipc_r314159_t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i_1251)<br/>
+`Token to /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon`: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.n_1J2L_oK4j7sX5utUT6wxE16bMpHgde36Ib9RERqbk<br/>
+`Default wallet`: t1ytq6xuk44qmjdf2mxvdioprqodg6fbvmgcypioa<br/>
+`Subnet validator info`: /dns/host.docker.internal/udp/1351/quic/p2p/12D3KooWJwGjexSzAH4D9idRKid9yuN6cWwGyPpL5K8i3XFK3Fw7<br/>
 
 
-Subnet /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon running in container: 6d2c8b8dcedcea81f4b1d4f7a84aeb92ad5462ff2fcdd66c33168c206208bfc9 (friendly name: ipc_r314159_t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i_1252)<br/>
-Token to /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.r6_GB8E407aMNoJtPNHCN-Rt9glOLJ7s-dsVWhRucUk<br/>
-Default wallet: t1csbr76ulpfiwxicv5qpldssuutwji4fuzhjv6ly<br/>
-Subnet validator info: /dns/host.docker.internal/udp/1352/quic/p2p/12D3KooWSf2KEyqiGMdHMSsEYvPGEBKZsXSFd8c5v1qe2jwEipta<br/>
+`Subnet /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon running in container`: 6d2c8b8dcedcea81f4b1d4f7a84aeb92ad5462ff2fcdd66c33168c206208bfc9 (friendly name: ipc_r314159_t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i_1252)<br/>
+`Token to /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon`: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.r6_GB8E407aMNoJtPNHCN-Rt9glOLJ7s-dsVWhRucUk<br/>
+`Default wallet`: t1csbr76ulpfiwxicv5qpldssuutwji4fuzhjv6ly<br/>
+`Subnet validator info`: /dns/host.docker.internal/udp/1352/quic/p2p/12D3KooWSf2KEyqiGMdHMSsEYvPGEBKZsXSFd8c5v1qe2jwEipta<br/>
 
 
-Subnet /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon running in container: 3077d3128588d70fb9b1dcb8e8aab5263aa0a0fc8b00b7270e4ffb6f3c3e6969 (friendly name: ipc_r314159_t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i_1253)<br/>
-Token to /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.nkZedAIVvHD4g-F8uOqAomy8N4JQBHecMVGKElSBwg8<br/>
-Default wallet: t1hsovshmjfv5wc2jziuvaisvatzqbndm4dqn33nq<br/>
-Subnet validator info: /dns/host.docker.internal/udp/1353/quic/p2p/12D3KooWSWzWo9NKuL8CxBMru1J5SrZ6yk5ZMDsd1HBUsaYZfy1T<br/>
+`Subnet /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon running in container`: 3077d3128588d70fb9b1dcb8e8aab5263aa0a0fc8b00b7270e4ffb6f3c3e6969 (friendly name: ipc_r314159_t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i_1253)<br/>
+`Token to /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon`: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.nkZedAIVvHD4g-F8uOqAomy8N4JQBHecMVGKElSBwg8<br/>
+`Default wallet`: t1hsovshmjfv5wc2jziuvaisvatzqbndm4dqn33nq<br/>
+`Subnet validator info` /dns/host.docker.internal/udp/1353/quic/p2p/12D3KooWSWzWo9NKuL8CxBMru1J5SrZ6yk5ZMDsd1HBUsaYZfy1T<br/>
 
 
 ## Project Objectives
