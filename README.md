@@ -41,9 +41,9 @@ The following is my subnet configuration.
 
 The primary objectives of the Subnet Explorer project are as follows:
 
-1. **Gather Subnet Information**: We aim to collect comprehensive data about various subnets, including their structure, IP ranges, network configurations, and other relevant details.
+1. **Gather Subnet Information**: We aim to collect comprehensive data about various subnets such as lastest block number, block data, gas price.
 
-2. **Build Subnet Explorer**: Using the gathered information, we will develop a Subnet Explorer tool that allows users to visualize, search, and analyze different subnets. This tool will be a valuable resource for network administrators, cybersecurity professionals, and anyone interested in understanding subnet structures.
+2. **Build Subnet Explorer**: Using the gathered information, we will develop a Subnet Explorer tool that allows users to visualize, search, and analyze subnet.
 
 3. **Deploy NFT Smart Contract**: In addition to the subnet exploration aspect, we will also deploy a simple NFT smart contract on a subnet. This contract will enable users to create and trade unique digital assets on the blockchain, providing a hands-on experience with blockchain technology.
 
@@ -54,7 +54,7 @@ To participate in the Subnet Explorer project, follow these steps:
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/subnet-explorer.git
+   git clone https://github.com/mxber2022/IPC_Encode_DataHack
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install any required dependencies by running:
