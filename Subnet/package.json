@@ -1,0 +1,17 @@
+{
+  "name": "explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "ethers": "^5.7.1",
+    "filecoin.js": "^0.0.5-alpha",
+    "web3": "^4.1.2"
+  }
+}
