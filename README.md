@@ -13,11 +13,11 @@ The following is my subnet configuration.
 `owner 3` – 0x924a68c7f713eda2fd9898b84eef2cbc6ed2f236 <br/>
 `f4 address` - t410fsjfgrr7xcpw2f7mytc4e53zmxrxnf4rw3c42aoa
 
-worker1 – t1ytq6xuk44qmjdf2mxvdioprqodg6fbvmgcypioa
-worker2 – t1csbr76ulpfiwxicv5qpldssuutwji4fuzhjv6ly
-worker3 – t1hsovshmjfv5wc2jziuvaisvatzqbndm4dqn33nq
+`worker1` – t1ytq6xuk44qmjdf2mxvdioprqodg6fbvmgcypioa<br/>
+`worker2` – t1csbr76ulpfiwxicv5qpldssuutwji4fuzhjv6ly<br/>
+`worker3` – t1hsovshmjfv5wc2jziuvaisvatzqbndm4dqn33nq<br/>
 
-subnet actor with id: /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i
+`subnet actor with id` /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i<br/>
 
 Subnet /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon running in container: e8d9266981b218b49fc7a14a886bf0b8fb99f115ef530a03a1da99dee0a1deb1 (friendly name: ipc_r314159_t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i_1251)
 Token to /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.n_1J2L_oK4j7sX5utUT6wxE16bMpHgde36Ib9RERqbk
