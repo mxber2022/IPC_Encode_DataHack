@@ -73,15 +73,9 @@ To participate in the Subnet Explorer project, follow these steps:
 
 The project is structured as follows:
 
-- `data`: This directory contains datasets and information about various subnets.
-
-- `subnet-explorer`: The main Subnet Explorer application source code.
+- `Subnet`: The main Subnet Explorer application source code.
 
 - `nft-smart-contract`: The NFT smart contract source code and deployment instructions.
-
-- `docs`: Documentation and user guides for the Subnet Explorer tool.
-
-- `CONTRIBUTING.md`: Guidelines on how to contribute to this project.
 
 ## Contributing
 
