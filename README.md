@@ -4,7 +4,7 @@ The objective of this project is to get valuable information of the subnet to bu
 
 The following is my subnet configuration.
 
-owner 1 – 0xefd0a16345cd8942c093471c34221b80db1deecd
+`owner 1` – 0xefd0a16345cd8942c093471c34221b80db1deecd
 f4 address: t410f57ikcy2fzweufqeti4odiiq3qdnr33wn6irtfcy
 Token to /r314159/t410fzfpgmots2elft45gtc7j3cxecwqnga3gg6ztw7i daemon: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.n_1J2L_oK4j7sX5utUT6wxE16bMpHgde36Ib9RERqbk
 
